@@ -3,5 +3,8 @@ sentence-transformers==2.2.2
 chromadb 
 tiktoken
 langchain==0.1.16
+langchain-community
 flask
 pypdf
+python-dotenv
+-e .
